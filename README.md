@@ -2,8 +2,15 @@
 I am a developer and student with a great fascination for programming.
 
 - 🌗Portfolio with academic and own development projects...🌗
-### Connect with me:
 
+### About me:
+I work in: <a href="https://www.axacolpatria.co/portal/"><img align="center" src="https://img.icons8.com/nolan/344/linkedin-circled.png" alt="Mateo Morera Work" height="40" width="40" /></a>
+
+🌱 I’m currently learning Software Development
+
+📫 How to reach me jzarate54035@universidadean.edu.co
+
+### Connect with me:
 <p align="left">
 <a href="https://twitter.com/__untitl3d"><img align="center" src="https://img.icons8.com/nolan/344/twitter.png" alt="Mateo Morera Twitter" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/mateo-morera-33a7a610a/"><img align="center" src="https://img.icons8.com/nolan/344/linkedin-circled.png" alt="Mateo Morera Linkedin" height="40" width="40" /></a>
