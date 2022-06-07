@@ -5,7 +5,7 @@ I am a developer and student with a great fascination for programming.
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/__untitl3d"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Brayantorres" height="30" width="40" /></a>
+<a href="https://twitter.com/__untitl3d"><img align="center" src="https://img.icons8.com/nolan/344/twitter.png" alt="Mateo Morera Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mateo-morera-33a7a610a/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
   
 ### Languages and Tools:
