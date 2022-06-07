@@ -4,7 +4,7 @@ I am a developer and student with a great fascination for programming.
 - 🌗Portfolio with academic and own development projects...🌗
 
 ### About me:
-I work in: <a href="https://www.axacolpatria.co/portal/"><img align="center" src="https://cddc.com.co/wp-content/uploads/2020/08/logo-convenio-axa-colpatria.png" alt="Mateo Morera Work" height="40" width="40" /></a>
+I work in: <a href="https://www.axacolpatria.co/portal/"><img align="center" src="https://cddc.com.co/wp-content/uploads/2020/08/logo-convenio-axa-colpatria.png" alt="Mateo Morera Work" height="40" width="75" style="margin-left: 10px;" /></a>
 
 🌱 I’m currently learning Software Development
 
