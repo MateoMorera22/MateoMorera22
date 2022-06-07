@@ -8,7 +8,7 @@ I am a developer and student with a great fascination for programming.
 
 - I study systems engineering in:&nbsp;&nbsp;<a href="https://universidadean.edu.co/"><img align="center" src="https://universidadean.edu.co/sites/default/files/logo-vertical.png" alt="Mateo Morera University" height="40" width="40"/></a>
 
-- 📧 How to reach me moreramateo@gmail.com 📧
+- 📧 How to reach me: moreramateo@gmail.com 📧
 
 ### Connect with me:
 <p align="left">
