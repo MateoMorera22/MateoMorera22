@@ -27,7 +27,7 @@ I am a developer and student with a great fascination for programming.
 <div>
     <a href="https://github.com/MateoMorera22">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateoMorera22&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoMorera22&layout=compact&langs_count=7&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoMorera22&layout=compact&langs_count=7&theme=synthwave"/>
 </div> 
 </div>
   
