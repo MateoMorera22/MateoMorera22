@@ -39,10 +39,10 @@ I am a developer and student with a great fascination for programming.
 </div> 
 </div>
  
-  <p>
-    <p>
-      <p>
-        <p>
+ <br>
+  <br>
+  <br>
+  <br>
  <img src="https://th.bing.com/th/id/R.5dfbb1a962e99df3737976756cc656d1?rik=9b4L2JTwdj7X5A&riu=http%3a%2f%2fimg.photobucket.com%2falbums%2fv18%2fbluewind%2fSHMobile%2fSHmobileHalo.gif&ehk=2ZRgeg62lP3SYvQocjSPVrRXU1HwFzJcci%2bl5SbCnB0%3d&risl=&pid=ImgRaw&r=0"  width="100" height="120" align=right>
 
 
