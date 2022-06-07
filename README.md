@@ -1,8 +1,6 @@
 ### Hi there 👽👋🌘
 I am a developer and student with a great fascination for programming.
 
-<img src="https://th.bing.com/th/id/R.5dfbb1a962e99df3737976756cc656d1?rik=9b4L2JTwdj7X5A&riu=http%3a%2f%2fimg.photobucket.com%2falbums%2fv18%2fbluewind%2fSHMobile%2fSHmobileHalo.gif&ehk=2ZRgeg62lP3SYvQocjSPVrRXU1HwFzJcci%2bl5SbCnB0%3d&risl=&pid=ImgRaw&r=0"  width="100" height="120">
-
 - 🤝I’m looking to collaborate on Open Source projects.
 ### Connect with me:
 
@@ -27,11 +25,13 @@ I am a developer and student with a great fascination for programming.
 <br><br><br>
 <div align="left">
 <div>
-    <a href="https://github.com/BrayanTorres2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrayanTorres2&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanTorres2&layout=compact&langs_count=7&theme=gotham"/>
+    <a href="https://github.com/MateoMorera22">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateoMorera22&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoMorera22&layout=compact&langs_count=7&theme=gotham"/>
 </div> 
 </div>
+  
+ <img src="https://th.bing.com/th/id/R.5dfbb1a962e99df3737976756cc656d1?rik=9b4L2JTwdj7X5A&riu=http%3a%2f%2fimg.photobucket.com%2falbums%2fv18%2fbluewind%2fSHMobile%2fSHmobileHalo.gif&ehk=2ZRgeg62lP3SYvQocjSPVrRXU1HwFzJcci%2bl5SbCnB0%3d&risl=&pid=ImgRaw&r=0"  width="100" height="120">
 
 
 
